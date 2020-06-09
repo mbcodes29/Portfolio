@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300&family=Comfortaa:wght@300&display=swap');
+
+
+
+html {
+  background-image: url(images/rainbow.jpg); 
+}
+
+
+img {
+  width: 70%;
+  padding-left: 15%;
+  padding-right: 25%;
+  margin: 10px 0;
+  
+}
+
+
+.headline {
+  text-align: center;
+  font-family: 'Bellota';
+  font-size: 50px;
+  padding: 20px 0 0 0;
+}
+
+header h2 {
+  height: 100px;
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+  padding: 0px 0 50px 0;
+}
+
+h2 {
+  color: black;
+}
+
+#about p {
+  color: black;
+}
+
+#contact p {
+  color: black;
+}
+
+#contact ol {
+  color: black;
+}
+
+body {
+  font-family: Comfortaa;
+  color: #05836d
+}
+
+footer {
+   color: black;
+}
+
+#intro {
+ padding-left: 25%;
+ padding-right: 25%;
+ color: black;
+ 
+}
+
+#about {
+  padding-right: 25px;
+  padding-left: 70px;
+  width: 40%;
+}
+
+#contact {
+  text-align: right;
+  padding-right: 70px;
+  padding-left: 25px;
+  list-style-position: inside;
+}
+
+
+#h3-about {
+  padding-left: 45%;
+  padding-top: 60px;
+}
+
+#h3-contact {
+  padding-right: 7%;
+  padding-top: 60px;
+
+}
